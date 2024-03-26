@@ -1,0 +1,9 @@
+body {
+    background-image: -webkit-linear-gradient(180deg,rgba(171,231,103,1.00) 0%,rgba(243,161,92,1.00) 100%);
+    background-image: -moz-linear-gradient(180deg,rgba(171,231,103,1.00) 0%,rgba(243,161,92,1.00) 100%);
+    background-image: -o-linear-gradient(180deg,rgba(171,231,103,1.00) 0%,rgba(243,161,92,1.00) 100%);
+    background-image: linear-gradient(270deg,rgba(171,231,103,1.00) 0%,rgba(243,161,92,1.00) 100%);
+}
+body h1 {
+    text-shadow: 100px 0px 5px #4F4F4F;
+}
