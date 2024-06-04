@@ -29,3 +29,13 @@
 	font-size: 16px;
 	text-align: center;
 }
+
+#testest{
+	font-weight: 600;
+	font-size: 80px;
+	animation: pulsating 2s ease-in-out infinite;
+}
+
+@keyframes pulsating{
+	50% { text-shadow: 0px 0px 20px red}
+}
